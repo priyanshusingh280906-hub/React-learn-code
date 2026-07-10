@@ -157,10 +157,10 @@ Some improvements that can be added in the future:
 
 ## ✍️ Author
 
-**Priyanshu Singh**[cite: 1] 👨‍💻
+**Priyanshu Singh** 👨‍💻
 
 ---
 
 ## 📜 License
 
-This project is made for **learning and practice purposes**[cite: 1] 📚.
+This project is made for **learning and practice purposes** 📚.
