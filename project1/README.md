@@ -81,12 +81,12 @@ onClick={() => setCount(0)}
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/priyanshusingh280906-hub/React-learn-code.git
 ```
 
 ### 2. Move into the project folder
 ```bash
-cd counter-app
+cd project1
 ```
 
 ### 3. Install dependencies
