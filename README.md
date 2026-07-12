@@ -45,12 +45,29 @@ A responsive password generator built using **React**, **Vite**, and **Tailwind 
 
 ---
 
+### 4. 💱 Currency Converter
+A responsive currency converter built using **React**, **Vite**, and **Tailwind CSS** that fetches live exchange rates and converts currencies in real time.
+
+**Features:**
+- 💱 Convert between multiple currencies
+- 🌍 Live exchange rates using a Currency API
+- 🔄 Swap "From" and "To" currencies instantly
+- ⚡ Custom Hook (`useCurrencyInfo`) for fetching currency data
+- 📡 API integration using the Fetch API
+- 📝 Controlled input components
+- 🎯 Built using `useState` and `useEffect`
+- ♻️ Reusable `InputBox` component
+- 💨 Responsive UI with Tailwind CSS
+
+---
+
 ## 🛠️ Tech Stack
 
 - ⚛️ React
 - 🟨 JavaScript (ES6+)
 - ⚡ Vite
 - 💨 Tailwind CSS
+- 🌐 Fetch API
 
 ---
 
@@ -67,6 +84,10 @@ react-learning-projects/
 │   └── ...
 │
 │── password-generator/
+│   ├── src/
+│   └── ...
+│
+│── currency-converter/
 │   ├── src/
 │   └── ...
 │
@@ -95,12 +116,15 @@ Through these projects, I'm learning and practicing:
 - 🔄 State Management with `useState`
 - ⚡ Side Effects using `useEffect`
 - 🔁 Function Memoization using `useCallback`
+- 🪝 Custom Hooks
+- 🌐 API Integration using Fetch API
 - 🖱️ Event Handling
 - 📝 Controlled Components
 - 🏷️ Dynamic Rendering & Conditional Logic
+- ♻️ Component Reusability
 - 🎨 Tailwind CSS Utility Classes
 - ⚡ Vite Project Setup
-- 🏗️ Organizing multiple React projects
+- 🏗️ Organizing Multiple React Projects
 
 ---
 
@@ -111,12 +135,14 @@ I will continue adding more projects while learning topics such as:
 - 🪵 Props & Component Communication
 - 📝 Forms & Validation
 - 🛣️ React Router
-- 🌐 API Integration (Fetch & Axios)
+- 🌐 API Integration (Axios)
 - 🔮 Context API
-- 📦 Custom Hooks
 - ⚡ Performance Optimization
 - 🔥 Firebase
 - 🗄️ Backend Integration (Node.js, Express & MongoDB)
+- 🛒 E-Commerce Applications
+- 💬 Chat Applications
+- 📊 Dashboard Projects
 - 💼 Advanced React & Full-Stack Projects
 
 ---
@@ -126,5 +152,9 @@ I will continue adding more projects while learning topics such as:
 **Priyanshu Singh**
 
 🚀 Aspiring Full Stack Developer passionate about building modern web applications and continuously improving through hands-on projects.
+
+- **GitHub:** https://github.com/priyanshusingh280906-hub
+
+---
 
 ⭐ If you like this repository, don't forget to **Star** it!
