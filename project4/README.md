@@ -50,17 +50,27 @@ src/
 
 ## ⚙️ Installation
 
+### 1️⃣ Clone the repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/priyanshusingh280906-hub/React-learn-code.git
+```
 
-# Navigate to the project
+### 2️⃣ Navigate to the project
+
+```bash
 cd project4
+```
 
-# Install dependencies
+### 3️⃣ Install dependencies
+
+```bash
 npm install
+```
 
-# Start the development server
+### 4️⃣ Start the development server
+
+```bash
 npm run dev
 ```
 
