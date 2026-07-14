@@ -81,6 +81,23 @@ A multi-page React application demonstrating client-side routing using **React R
 
 ---
 
+### 6. 🌗 React Theme Switcher
+
+A modern React application demonstrating global state management using **Context API**, **Custom Hooks**, and **Tailwind CSS v4** with a fully functional Light/Dark theme switcher.
+
+**Features:**
+
+- 🌗 Light & Dark Theme Toggle
+- 🔮 Global State Management using Context API
+- 🪝 Custom Hook (`useTheme`)
+- 🎨 Tailwind CSS v4
+- 📱 Fully Responsive UI
+- ✨ Modern Project Showcase Card
+- ⚡ Smooth Hover Animations
+- ♻️ Reusable Components
+
+---
+
 ## 🌐 API Integration
 
 ### 🐙 GitHub REST API
@@ -138,6 +155,8 @@ react-learning-projects/
 │
 ├── react-router-demo/
 │
+├── react-theme-switcher/
+│
 └── README.md
 ```
 
@@ -161,17 +180,21 @@ Through these projects, I've learned and practiced:
 
 - ⚛️ Functional Components
 - 🧩 JSX
+- 📦 Props
 - 🔄 State Management (`useState`)
 - ⚡ Side Effects (`useEffect`)
 - 🔁 Function Memoization (`useCallback`)
 - 🪝 Custom Hooks
+- 🔮 Context API
+- 🌍 Global State Management
 - 🛣️ React Router DOM
 - 🌐 API Integration using Fetch API
 - 📋 Controlled Components
 - 🖱️ Event Handling
 - 🏷️ Conditional Rendering
 - ♻️ Reusable Components
-- 🎨 Tailwind CSS
+- 🎨 Tailwind CSS v4
+- 🌗 Dark Mode Implementation
 - 📱 Responsive Design
 - ⚡ Vite Project Setup
 
@@ -181,9 +204,9 @@ Through these projects, I've learned and practiced:
 
 As I continue learning React, I'll be adding projects involving:
 
-- 📦 Props & Component Communication
 - 📝 Forms & Validation
-- 🔮 Context API
+- 🪝 Advanced Custom Hooks
+- 🔄 useReducer
 - ⚡ Performance Optimization
 - 📡 Axios
 - 🔥 Firebase Authentication
