@@ -98,6 +98,25 @@ A modern React application demonstrating global state management using **Context
 
 ---
 
+### 7. 📝 Modern Todo App
+
+A beautiful and responsive Todo application built using **React**, **Vite**, **Tailwind CSS**, and **Context API**. This project demonstrates CRUD operations, global state management, and persistent storage with a modern glassmorphism-inspired UI.
+
+**Features:**
+
+- ➕ Add new todos
+- ✏️ Edit existing todos
+- ✅ Mark todos as completed
+- 🗑️ Delete todos
+- 💾 Automatic Local Storage persistence
+- 🔮 Global State Management using Context API
+- 🪝 Custom Hook (`useTodo`)
+- 🧊 Modern Glassmorphism UI
+- 🖼️ Custom Background Image
+- 📱 Fully Responsive Design
+
+---
+
 ## 🌐 API Integration
 
 ### 🐙 GitHub REST API
@@ -125,6 +144,8 @@ GET https://api.github.com/users/priyanshusingh280906-hub
 - Fetch API
 - useState
 - useEffect
+- useContext
+- createContext
 
 ---
 
@@ -135,7 +156,9 @@ GET https://api.github.com/users/priyanshusingh280906-hub
 - ⚡ Vite
 - 💨 Tailwind CSS
 - 🛣️ React Router DOM
+- 🔮 Context API
 - 🌐 Fetch API
+- 💾 Local Storage
 - 🪝 React Hooks
 
 ---
@@ -156,6 +179,8 @@ react-learning-projects/
 ├── react-router-demo/
 │
 ├── react-theme-switcher/
+│
+├── modern-todo-app/
 │
 └── README.md
 ```
@@ -189,6 +214,8 @@ Through these projects, I've learned and practiced:
 - 🌍 Global State Management
 - 🛣️ React Router DOM
 - 🌐 API Integration using Fetch API
+- 💾 Local Storage
+- 📝 CRUD Operations
 - 📋 Controlled Components
 - 🖱️ Event Handling
 - 🏷️ Conditional Rendering
